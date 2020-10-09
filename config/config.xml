@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>PAC Lidar Visualizer</Name>
+    <Version>1.0.0</Version>
+    <Title>PAC Lidar Visualizer Installer</Title>
+    <Publisher>AODT</Publisher>
+    <StartMenuDir>PacLidar</StartMenuDir>
+    <TargetDir>@ApplicationsDir@/PACLidarVisualizer</TargetDir>
+    <Logo>PACLidarVisualizer.png</Logo>
+</Installer>
