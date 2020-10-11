@@ -2,8 +2,8 @@
 <Package>
     <DisplayName>PAC Lidar Visualizer</DisplayName>
     <Description>用于显示雷达点云、控制雷达、分析雷达数据</Description>
-    <Version>1.8</Version>
-    <ReleaseDate>2020-10-09</ReleaseDate>
+    <Version>1.8.2</Version>
+    <ReleaseDate>2020-10-12</ReleaseDate>
     <Licenses>
         <License name="AODT Software License" file="license.txt" />
     </Licenses>
