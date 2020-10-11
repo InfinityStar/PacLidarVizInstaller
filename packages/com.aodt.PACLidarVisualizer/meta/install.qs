@@ -1,6 +1,6 @@
 var targetDirectoryPage = null;
 var execName = "PACLidarVisualizer";
-var execVersion = "-v1.8.2";
+var execVersion = "-v1.8.3";
 
 function Component() 
 {
